@@ -1,1 +1,1 @@
-Multisite on Symfony2
+Multisite system on Symfony2
