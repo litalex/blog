@@ -1,1 +1,1 @@
-Multisite system on Symfony2
+Litalex Multisite System
